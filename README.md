@@ -1,7 +1,7 @@
 # swhc-batch-mud
 A novel serverless StarWars Homecoming themed MUD programmed as a Windows Batch file. It manages data sharing by shuffling files around!
 
-Hosted here on behalf of Bryce Neuberger < /u/brycen64 @ Reddit >
+Hosted here on behalf of https://www.reddit.com/user/brycen64
 
 It started with these threads on reddit:
 
